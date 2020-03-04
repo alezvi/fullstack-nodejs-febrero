@@ -1,0 +1,26 @@
+
+TAREAS PARA EL HOGAR
+1) Instalar Visual Studio Code
+2) Instalar Node
+
+Minusculas y separado por guiones
+    practicas-en-clase
+
+Listar archivos desde la terminal
+    Windows: dir
+    Mac / Ubuntu: ls 
+
+Cambiar de directorio
+    cd {carpeta-de-destino}
+    cd C:/practicas-en-clase
+
+Limpiar el historial de comandos
+    Windows: cls
+    Mac y Ubuntu: clear
+
+Crear un archivo (solo Mac y Ubuntu)
+    touch index.js
+
+Ejecutamos el archivo para ver el resultado 
+    node index
+    node index.js
