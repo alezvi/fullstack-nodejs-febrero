@@ -1,6 +1,4 @@
+// importando
+let calc = require('./calculadora.js')
 
-
-
-
-
-console.log('hola soy index.js')
+console.log(calc.sumar(4, 5))

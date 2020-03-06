@@ -1,0 +1,15 @@
+
+Crear un archivo calculadora.js
+
+Crear una variable llamada calculadora que sea un objeto
+
+El objeto calculadora debe tener 4 metodos
+    sumar 
+    restar 
+    multiplicar 
+    dividir 
+
+Cada metodo debe recibir 2 parametros
+
+Dentro de la funcion devolver el resultado de la operacion utilizando los parametros recibidos
+
