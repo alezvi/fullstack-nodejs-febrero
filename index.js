@@ -1,6 +1,8 @@
+let fs = require('fs')
 
-
-
-
-
-console.log('hola soy index.js')
+if ( process.argv[2] !== 'undefined' ) {
+    console.log( process.argv[2] )
+}
+else {
+    throw new Error('Necesito el parametro "status"')
+}
